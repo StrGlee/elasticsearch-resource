@@ -11,12 +11,12 @@
 * Kibana logstash [链接](http://www.code123.cc/docs/kibana-logstash/)
 * elk doc [链接](http://logstash.es/)
 
-
-### 名人博客
+### 博客
 * medcl [链接](http://log.medcl.net/)
 * 三斗室 [链接](http://chenlinux.com/)
 * 祝威廉 [链接](http://www.jianshu.com/users/59d5607f1400/latest_articles)
 * richaaaard [链接](http://www.cnblogs.com/richaaaard/)
+* 云端分布式搜索技术 [链接](http://www.searchtech.pro/)
 
 ### github
 * elastic [链接](https://github.com/elastic)
