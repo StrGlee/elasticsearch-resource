@@ -2,6 +2,7 @@
 
 ### 网站
 * elasticsearch 官网 [链接](https://www.elastic.co/)
+* elastic discuss [链接](https://discuss.elastic.co/)
 * elasticsearch 中文论坛 [链接](http://elasticsearch.cn/)
 * elasticsearch google group [链接](https://groups.google.com/forum/#!forum/elasticsearch)
 
