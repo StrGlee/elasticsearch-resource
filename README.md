@@ -5,6 +5,7 @@
 * elastic discuss [链接](https://discuss.elastic.co/)
 * elasticsearch 中文论坛 [链接](http://elasticsearch.cn/)
 * elasticsearch google group [链接](https://groups.google.com/forum/#!forum/elasticsearch)
+* Elasticsearch Users [链接](http://elasticsearch-users.115913.n3.nabble.com/)
 
 ### 书籍
 * Elasticsearch 权威指南（中文版）[链接](http://es.xiaoleilu.com/)
