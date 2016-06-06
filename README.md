@@ -18,6 +18,7 @@
 * 祝威廉 [链接](http://www.jianshu.com/users/59d5607f1400/latest_articles)
 * richaaaard [链接](http://www.cnblogs.com/richaaaard/)
 * 云端分布式搜索技术 [链接](http://www.searchtech.pro/)
+* gibrown [链接](https://gibrown.com/)
 
 ### github
 * elastic [链接](https://github.com/elastic)
