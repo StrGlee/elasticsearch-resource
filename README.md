@@ -1,4 +1,4 @@
-# elasticsearch resources
+# elasticsearch resource
 
 ### 网站
 * elasticsearch 官网 [链接](https://www.elastic.co/)
